@@ -4,7 +4,8 @@ Recursos.
 
 ## Instalaciones
 
-- [KinectV1]()
+- [KinectV1](./kinect/instalacionV1.md)
+- [KinectV2](./kinect/instalacionV2.md)
 
 ## Distancia
 
