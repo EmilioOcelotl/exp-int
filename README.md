@@ -10,7 +10,7 @@ Recursos.
 
 ## Posición 
 
-. KinectV1 > similar a distancia (revisar [secciones](./posicion/secciones/secciones.5.toe) con ajuste para kinect)
+- KinectV1 > similar a distancia (revisar [secciones](./posicion/secciones/secciones.5.toe) con ajuste para kinect)
 - Cámara(s) web > similar a distancia (revisar [secciones](./posicion/secciones/secciones.5.toe))
 - [Sensores del teléfono](./posicion/sensoresTel.md)
 - LIDIAR
