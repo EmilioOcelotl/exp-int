@@ -19,6 +19,6 @@ Recursos.
 
 - [MIDI Switch](./control/midiSwitch/midi.md)
 - [Novation LaunchPad](./control/launchpad/launchpad.md) 
-- Envío y recepción de OSC 
+- [Envío de data vía OSC](./posicion/gyroosc/gyrosc.md) con [gyrosc](https://www.bitshapesoftware.com/instruments/gyrosc/)
 - Aleatoriedad 
 - OSC en la web
